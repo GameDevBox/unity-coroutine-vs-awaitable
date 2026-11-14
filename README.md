@@ -2,7 +2,7 @@
 
 The two bomb scripts from the GameDevBox video **"Coroutine vs Awaitable in Unity 6: Which One Should You Use?"**
 
-▶️ Watch the video: https://youtu.be/VIDEO_ID
+▶️ Watch the video: [https://youtu.be/VIDEO_ID](https://youtu.be/aJnJEk6vtbY)
 
 The same bomb is written twice so you can compare them round by round:
 
